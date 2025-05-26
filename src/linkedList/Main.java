@@ -9,10 +9,11 @@ public class Main {
         myLinkedList.append(23);
         myLinkedList.append(7);
 
-        myLinkedList.remove(1);
+        myLinkedList.reverse();
 
         System.out.println("\nLinked List:");
         myLinkedList.printList();
+
 
     }
 
